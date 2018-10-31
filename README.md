@@ -1,2 +1,2 @@
 # novel_crawler
-爬輕小說文庫
+爬輕小說
