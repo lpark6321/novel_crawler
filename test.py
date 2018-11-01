@@ -81,7 +81,7 @@ if __name__ == '__main__':
     print("执行开始".center(scale // 2, "-"))
     start = time.perf_counter()
 
-    for n in range(977,978):
+    for n in range(2473,2476):
         try:
             url='https://www.wenku8.net/novel/'+str(int(n/1000))+'/'+str(n)+'/index.htm'
             resp = get_web_page(url)
